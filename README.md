@@ -15,6 +15,13 @@ Transform your photos into captivating stories and poems with the power of AI! S
 - **⚡ Fast Processing**: Optimized AI models for quick story generation
 - **🔄 Multiple Formats**: Generate both stories and poems from the same image
 
+## 🌟 ScreenShots
+<img width="1470" alt="Screenshot 2025-06-04 at 8 08 27 AM" src="https://github.com/user-attachments/assets/005ded78-d354-4737-b326-49ec802e32fd" />
+<img width="1470" alt="Screenshot 2025-06-04 at 8 08 43 AM" src="https://github.com/user-attachments/assets/d28dd1ae-9a0f-4b13-9411-d2c069cb3fb1" />
+<img width="1470" alt="Screenshot 2025-06-04 at 8 08 54 AM" src="https://github.com/user-attachments/assets/fe2774c4-1193-459b-b920-fdd01fd9df00" />
+
+
+
 ## 🛠️ Technology Stack
 
 ### Backend
